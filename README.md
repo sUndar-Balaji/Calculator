@@ -10,4 +10,6 @@ Calculator Application done by using react and redux
 
 ### Application Screenshots
 
+1.Initial Screen
+
 ![Initial Screen](https://github.com/sUndar-Balaji/Calculator/blob/master/app-screenshots/screenshot-no-operation.png)
