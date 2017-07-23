@@ -8,4 +8,6 @@ Calculator Application done by using react and redux
 3. run the following command in another terminal window - webpack-dev-server
 4. application will be available at this url - http://localhost:8080/ - depending on the port setup
 
+### Application Screenshots
 
+![Initial Screen](https://github.com/sUndar-Balaji/Calculator/blob/master/app-screenshots/screenshot-no-operation.png)
