@@ -13,3 +13,7 @@ Calculator Application done by using react and redux
 1.Initial Screen
 
 ![Initial Screen](https://github.com/sUndar-Balaji/Calculator/blob/master/app-screenshots/screenshot-no-operation.png)
+
+2.After Operations Performed
+
+![After Operations Performed](https://github.com/sUndar-Balaji/Calculator/blob/master/app-screenshots/operation-performed.png)
