@@ -1,0 +1,9 @@
+const COMBINE_DIGITS = 'COMBINE_INPUT';
+const CALCULATOR_FUNCTIONS = 'CALCULATOR_OPERATIONS';
+
+const actions = {
+  COMBINE_DIGITS,
+  CALCULATOR_FUNCTIONS
+};
+
+export default actions;

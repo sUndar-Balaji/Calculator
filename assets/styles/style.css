@@ -1,0 +1,72 @@
+body {
+  color: #fff;
+}
+
+.calculatorContainer {
+  margin-top: calc(50vh - (334px / 2));
+}
+
+.calculatorContainer .calculator {
+  box-shadow: 0px 0px 14px 1px #01579b;
+  background: #006064;
+  float: none;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.calculatorDisplay {
+  height: 70px;
+  font-size: 30px;
+  background: #e0f2f1;
+  color: #000;
+  margin: 10px 0;
+  padding: 10px;
+  overflow-y: auto;
+  word-wrap: break-word;
+}
+
+.operations .digits {
+  padding: 0;
+}
+
+.digitsRow {
+  margin: 0 0 10px;
+}
+
+.operations .digits .digitsRow button {
+  width: 30%;
+  padding: 8px;
+  background: #26a69a;
+  border: 0;
+  height: 52px;
+}
+
+.operations .digits .digitsRow button:nth-child(2) {
+  margin: 0 5%;
+}
+
+.operations .calcFunctions {
+  float: right;
+  padding-right: 0;
+}
+
+.operations .calcFunctions .functionsRow button {
+  width: 100%;
+  margin: 0 0 5px;
+  padding: 0 20px;
+  border-radius: 13px;
+  border: 0;
+  background: #00897b;
+  margin-bottom: 10px;
+  height: 40px;
+}
+
+.operations .digits .digitsRow button,
+.operations .calcFunctions .functionsRow button {
+  box-shadow: 0 0 4px 1px #fff;
+}
+
+.operations .digits .digitsRow button:focus,
+.operations .calcFunctions .functionsRow button:focus {
+  outline: none;
+}
